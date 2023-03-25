@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Montserrat:wght@300;400&family=Raleway:wght@300;400&family=Russo+One&display=swap');
+body {
+    background-image: url('../images/prism.jpg');
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color:black;
+    background-attachment: fixed;
+  }
+.container {
+    margin:auto;
+    max-width: 500px;
+    font-family: sans-serif;
+}
+
+.heading{
+    color: rgb(255, 217, 0);
+    color: white;
+    font-size: 1.5rem;
+    font-family: 'Monoton', cursive;
+    /* font-family: 'Russo One', sans-serif; */
+    /* margin-right: auto; */
+}
+.nav-links{
+    display:flex;
+    list-style: none;
+    padding-left: 0;
+    align-items: center;
+    justify-content: center;
+}
+.nav-link-item{
+    padding-right:0.5rem;
+    /* padding: auto; */
+    /* margin:auto; */
+    /* text-decoration: none; */
+}
+.nav-link-text{
+    color: white;
+    font-family: Montserrat;
+    font-weight: 300;
+    text-decoration: none;
+}
+a:visited { text-decoration: none; color:white; }
+a:hover { text-decoration: none; color:white; }
+a:focus { text-decoration: none; color:white; }
+a:hover, a:active { text-decoration: none; color:white; }
+.page-text{
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: justify;
+    color:white;
+    margin:auto;
+    margin-top:5vw;
+    max-width: 500px;
+}
