@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_visiting_card=self.webpackChunkgatsby_visiting_card||[]).push([[91],{6091:function(b,c,s){s.r(c),c.default=s.p+"static/monzo-bbb4f3f250bbc527920c3c99d960d6fb.png"}}]);
+//# sourceMappingURL=91-32a0457a1af7035a274d.js.map

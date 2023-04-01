@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_visiting_card=self.webpackChunkgatsby_visiting_card||[]).push([[814],{7814:function(e,s,c){c.r(s),s.default=c.p+"static/main-resume-2023-7e9e90f6c6d19fe81fcc2b49606eb852.pdf"}}]);
+//# sourceMappingURL=814-d686d27f8d1d5f4e8514.js.map
